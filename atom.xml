@@ -4,11 +4,11 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Marc Brooker's Blog</title>
- <link href="http://brooker.co.za/blog/blog.xml" rel="self"/>
- <link href="http://brooker.co.za/blog/"/>
+ <title>Marc Brooker's Other Blog</title>
+ <link href="http://brooker.co.za/misc-blog/blog.xml" rel="self"/>
+ <link href="http://brooker.co.za/misc-blog/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://brooker.co.za/blog/</id>
+ <id>http://brooker.co.za/misc-blog/</id>
  <author>
    <name>Marc Brooker</name>
    <email>marcbrooker@gmail.com</email>
@@ -19,7 +19,7 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://brooker.co.za/blog{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://brooker.co.za/blog{{ post.id }}</id>
+   <id>http://brooker.co.za/misc-blog{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
