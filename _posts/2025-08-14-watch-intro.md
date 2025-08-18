@@ -54,7 +54,7 @@ The dial I have in mind is going to be titanium, with some custom CNC 'guilloche
 
 I wanted to design something that was my own, but also with a classic look. The closest existing watch to the profile I wanted is probably the [Tissot Gentleman](https://www.tissotwatches.com/en-us/men/main-collections/tissot-gentleman.html). But I wanted chunkier, and less dressy. Something classic.
 
-![](/misc-blog/images/watch_cad.jpg)
+![](/misc-blog/images/watch_cad.png)
 
 The dial portion is quite complex: a bore for the crystal, a bore for the dial to sit on, a bore to hole the movement in place, and a bore that the back threads onto. By comparison, the case profile is very simple: 22mm strap size, 2mm wide lugs, and a simple tangent picking up the round from the lug.
 
