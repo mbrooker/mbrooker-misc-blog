@@ -36,7 +36,7 @@ Fly cutting uses a single point tool, which makes a great flat surface. Doing th
 
 The second fixture is a pair of *soft jaws*, machined out of aluminium. These replace the vise jaws, essentially making a custom vise for the watch's exact shape. Repeatability is good here too, within around 25μm (a thou).
 
-![](/misc-blog/images/soft_jaw.png)
+![](/misc-blog/images/soft_jaw.jpg)
 
 CAD makes creating soft jaws like this super easy.
 
