@@ -56,6 +56,19 @@ Flipped over clamped down, and did the second set. Disaster! The precision bore 
 
 That's less than 0.5% out of round, but plenty to ruin my press fit.
 
+What happened is obvious in retrospect: the soft jaws squeezed this delicate object from the sides, making it a slight oval. In place, clamped into the vise, it's round to within 20μm. Release the vise, and it's 150μm out of round.
+
+**Step 3: A Second Mistake to Cancel the First**
+
+Fixing an out-of-round bore isn't hard: find a better way to hold the part, and use a lathe or boring head to machine a circle at the oval's major diameter. Fixing an out-of-round bore where the major diameter is too big is very hard indeed. Running the lathe in reverse sadly doesn't add material. My basic lathe, unlike [This Old Tony's](https://www.youtube.com/c/ThisOldTony), doesn't time travel.
+
+And this is where I got lucky. Weirdly lucky. I pulled the crystal out of it's packaging, and found I'd ordered a 32mm crystal rather than the 31mm crystal I'd planned. 
+
+![](/misc-blog/images/lathe.jpg)
+
+In the lathe<sup>[2](#foot2)</sup>, gingerly held in the four jaw, I was able to open the bore up to 31.975mm for the press fit on the crystal. Sometimes things work out.
+
 **Footnotes**
 
 1. <a name="foot1"></a> [My little lathe](https://littlemachineshop.com/products/product_view.php?ProductID=6716&category=2122081992) isn't exactly crappy, but it's not exactly high-end either.
+2. <a name="foot2"></a> Lathe pictured here before it became a hybrid mechanical/cnc mutt. Maybe I'll write that up sometime too.

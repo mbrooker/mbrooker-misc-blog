@@ -26,11 +26,11 @@ It came out pretty well! Not perfect, but along the lines of what I wanted.
 
 **Choices: The Guts**
 
-The first choice is what style of watch to build. There are divers and chronographs, field watches and pilot's watches, tool watches and dress watches, wrist watches and pocket watches, even the Ankh Morpork night watch. I tend to like the simplistic end of the scale: the field watch with it's basic readable face, three hands, and few features.
+The first choice is what style of watch to build. There are divers and chronographs, field watches and pilot's watches, tool watches and dress watches, wrist watches and pocket watches, even the Ankh-Morpork night watch. I tend to like the simplistic end of the scale: the field watch with it's basic readable face, three hands, and few features.
 
-Second is the type of movement. Broadly speaking, there are two kinds of modern watch movements: mechanical ones with gears and wheels and springs, and quartz ones with a tiny crystal and an even tinier computer. Quartz movements are better in every quantitative measure: they're lighter, they're cheaper, they're more robust, they keep better time, they don't need constant winding or wearing. Mechanincal watches, on the other hand<sup>[1](#foot1)</sup>, are more fun. They have cool moving bits you can watch. They have a special magic of keeping time without computers. They have link to the past work of folks like [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) (no, not [that other John Harrison](https://en.wikipedia.org/wiki/John_Harrison_(disambiguation))).
+Second is the type of movement. Broadly speaking, there are two kinds of modern watch movements: mechanical ones with gears and wheels and springs, and quartz ones with a tiny crystal and an even tinier computer<sup>[3](#foot3)</sup>. Quartz movements are better in every quantitative measure: they're lighter, they're cheaper, they're more robust, they keep better time, they don't need constant winding or wearing. Some can even listen to [WWVB](https://en.wikipedia.org/wiki/WWVB). Mechanical watches, on the other hand<sup>[1](#foot1)</sup>, are more fun. They have cool moving bits you can watch. A little bit of special magic. They have link to the past work of folks like [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) (no, not [that other John Harrison](https://en.wikipedia.org/wiki/John_Harrison_(disambiguation))).
 
-The mechanical movement I chose is Seiko's NH35. It's relatively cheap (incredibly cheap for what it is), widely available, robust, and solid quality. The NH38 is a kind of mechanical movement called an *automatic*, because it winds itself up over time as its worn, by stealing picojoules of the wearer's precious life force throughout the day. 
+The mechanical movement I chose is Seiko's NH35. It's relatively cheap (incredibly cheap for what it is), widely available, robust, and solid quality. The NH35 is a kind of mechanical movement called an *automatic*, because it winds itself up over time as its worn, by stealing picojoules of the wearer's precious life force throughout the day. 
 
 The Seiko NH series is pretty accurate, only around 200,000,000,000 times worse than an atomic reference.
 
@@ -42,7 +42,9 @@ If you live in a city, you can go out today and buy a watch with a case made of 
 
 Glass is a pain to work, as are ceramic and titanium, so those are out. Gold, silver, and platinum seemed a little rich for a first attempt. Stainless steel is cool, but boring. As is aluminium. Plastic and wood seemed a bit goofy. So I picked brass.
 
-Or, rather, bronze. [954 Aluminium Bronze](https://www.sequoia-brass-copper.com/bronze/954-bronze/) to be exact. Aluminium bronzes are cool: they look nice, are easy to work, don't contain any lead<sup>[2](#foot2)</sup>, and resist corrosion by covering themselves in a nano layer of strong aluminium oxide. Its density makes for a nice weight (I find aluminium and titanium cases to be weirdly light). But, mostly, it's easy to machine. I'll likely make a stainless version later.
+![](/misc-blog/images/printed_proto.jpg)
+
+Or, rather, bronze. [954 Aluminium Bronze](https://www.sequoia-brass-copper.com/bronze/954-bronze/) to be exact. Aluminium bronzes are cool: they look nice, are easy to work, don't contain any lead<sup>[2](#foot2)</sup>, and resist corrosion by covering themselves in a nano layer of strong aluminium oxide. Brass's density makes for a nice weight (I find aluminium and titanium cases to be weirdly light). But, mostly, it's easy to machine. I'll likely make a stainless version later.
 
 The second choice is the crystal, that little glass window at the front. It may surprise you to learn that a lot of high end watches have a plastic crystal. Acrylic is tough, clear, easy to buff to a high shine, and cheap to make into all kinds of shapes. Objectively, like quartz, it may be the best choice. The most boring choice is plain old glass. Like the stuff you'd pull a pint into. Glass is kind of in the middle. At the other end from plastic is sapphire. Yes, sapphire. Turns out you can grow really big sapphires for cheap and make watch crystals out of them and you have a crystal that's extremely hard. Only a handful of things like diamonds and [SiC](https://en.wikipedia.org/wiki/Moissanite) are harder than sapphires.
 
@@ -64,7 +66,10 @@ I like tangents.
 
 Most of the external parts of this design are entirely aesthetic, but the internals need to be held to a fairly high precision. Mating surfaces for the crystal, the crown gasket, and the back gasket need to be especially tightly toleranced to keep water and dust out.
 
+[The story continues in the second part](https://brooker.co.za/misc-blog/2025/08/15/watch-case.html).
+
 **Footnotes**
 
 1. <a name="foot1"></a> The left hand, most likely.
 2. <a name="foot2"></a> My entire workshop is lead-free, or as close as I can get it. Leaded metals, from brass to free-machining steels, are a joy to work with, but environmental lead is something I just don't want around my household.
+3. <a name="foot3"></a> The exception is the weird and wonderful [Seiko Spring Drive](https://www.youtube.com/watch?app=desktop&v=jVoRoK1u3Dg), which is a mechanical movement governed by a quartz oscillator and tiny microcontroller. It's not quite a quartz watch, and not quite a mechanical watch.
